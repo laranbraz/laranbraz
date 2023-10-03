@@ -1,16 +1,13 @@
-### Hi there 👋
+# Olá Mundo!
 
-<!--
-**laranbraz/laranbraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Lara, e estou me redescobrindo no mundo da programação. Estou em transição de carreira, e no momento estou me especializando em desenvolvimento de software, com foco em back-end, utilizando a linguagem JavaScript. Sou uma pessoa muito apaixonada em aprender e pretendo ampliar cada vez mais meus horizontes na área de programação.
 
-Here are some ideas to get you started:
+### Para me encontrar:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_laranb/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lara-braz-de-castro)
+
+### Hard Skills
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.Js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
