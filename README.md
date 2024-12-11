@@ -1,7 +1,3 @@
-# Olá Mundo!
-
-Me chamo Lara, e estou me redescobrindo no mundo da programação. Estou em transição de carreira, e no momento estou me especializando em desenvolvimento de software, com foco em back-end, utilizando a linguagem JavaScript. Sou uma pessoa muito apaixonada em aprender e pretendo ampliar cada vez mais meus horizontes na área de programação.
-
 ### Para me encontrar:
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_laranb/)
