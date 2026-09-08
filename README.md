@@ -35,6 +35,7 @@ My focus is **Django REST Framework** and **Rust**, with strong experience in ba
 ## 🗄️ Database
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
